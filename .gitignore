@@ -8,6 +8,7 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+<<<<<<< HEAD
 
 ###> phpunit/phpunit ###
 /phpunit.xml
@@ -18,3 +19,5 @@
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
+=======
+>>>>>>> 517a81bcea982c16953da7d4856a50de4dbe9644

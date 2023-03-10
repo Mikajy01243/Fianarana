@@ -1,5 +1,14 @@
 controllers:
+<<<<<<< HEAD
     resource:
         path: ../src/Controller/
         namespace: App\Controller
     type: attribute
+=======
+    resource: ../src/Controller/
+    type: annotation
+
+kernel:
+    resource: ../src/Kernel.php
+    type: annotation
+>>>>>>> 517a81bcea982c16953da7d4856a50de4dbe9644
